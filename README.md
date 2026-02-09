@@ -10,7 +10,7 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/DogDlak/sorted-collection.git
-   cd merge-sorted-collection
+   cd sorted-collection
 
 2. Install dependencies:
    ```bash
